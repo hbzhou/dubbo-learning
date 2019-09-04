@@ -1,0 +1,8 @@
+dubbo:
+  application:
+    name: dubbo-boot-consumer
+  registry:
+    protocol: zookeeper
+    address: mse-ecd283d1-p.zk.mse.aliyuncs.com:2181
+server:
+  port: 8990
