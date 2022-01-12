@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <dubbo.version>2.7.2</dubbo.version>
+        <dubbo.version>2.7.15</dubbo.version>
         <spring-boot.version>2.1.6.RELEASE</spring-boot.version>
     </properties>
 
